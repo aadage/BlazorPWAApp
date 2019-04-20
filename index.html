@@ -4,15 +4,15 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>BlazorPWA</title>
-    <!-- <base href="/" /> -->
-    <base href="/BlazorPWAApp/" />
+    <base href="/" />
+    <!--<base href="/BlazorPWAApp/" />-->
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/site.css" rel="stylesheet" />
+    <link rel="manifest" href="manifest.json">
 </head>
 <body>
     <app>Loading...</app>
-
-    <h1>test</h1>
     <script src="_framework/blazor.webassembly.js"></script>
+    <script src="sw-init.js"></script>
 </body>
 </html>
