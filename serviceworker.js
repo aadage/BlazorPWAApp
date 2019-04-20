@@ -4,7 +4,7 @@ var urlsToCache = [
     '/BlazorPWAApp/favicon.ico',
     '/BlazorPWAApp/sw-init.js',
     '/BlazorPWAApp/manifest.json',
-    '/BlazorPWAApp/serviceworker.json',
+    '/BlazorPWAApp/serviceworker.js',
     '/BlazorPWAApp/css/site.css',
     '/BlazorPWAApp/css/bootstrap/bootstrap.min.css',
     '/BlazorPWAApp/css/open-iconic/font/css/open-iconic-bootstrap.min.css',
