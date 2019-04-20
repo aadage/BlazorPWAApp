@@ -3,17 +3,17 @@
   "name": "Blazor PWA",
   "icons": [
     {
-      "src": "/images/cylinder-icon_192.png",
+      "src": "/BlazorPWAApp/images/cylinder-icon_192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/cylinder-icon_512.png",
+      "src": "/BlazorPWAApp/images/cylinder-icon_512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "/BlazorPWAApp/",
   "background_color": "#3367D6",
   "display": "standalone",
   "theme_color": "#3367D6"
