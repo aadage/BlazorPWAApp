@@ -1,7 +1,6 @@
 ﻿var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
     '/BlazorPWAApp/',
-    '/BlazorPWAApp/favicon.ico',
     '/BlazorPWAApp/sw-init.js',
     '/BlazorPWAApp/manifest.json',
     '/BlazorPWAApp/css/site.css',
